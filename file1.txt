@@ -1,2 +1,6 @@
 file1
+<<<<<<< HEAD
 add from master
+=======
+add from bugfix
+>>>>>>> bugfix
