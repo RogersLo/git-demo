@@ -1,4 +1,6 @@
 file1
+file1_add during remote intro.
+
 <<<<<<< HEAD
 add from master
 =======
